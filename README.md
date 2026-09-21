@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mindy! 👋</h1>
 <h3 align="center">A curious full-stack developer in Singapore</h3>
 
-- 🔭 I’m currently working on [Singapore's Weatherman Bot](https://github.com/itsmindyk/telegramBOT-weather)
+- 🔭 I’m currently working on a simple full-stack web application!
 
 - 🌱 I’m currently learning **UI UX Designing**
 - 🔎 I'm currently looking into **developing web applications and telegram bots**
